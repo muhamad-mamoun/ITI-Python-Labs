@@ -1,0 +1,5 @@
+1:1:Build a Portfolio Website:A personal website to showcase projects and skills:5000:2024-03-01:2024-06-01
+4:2:E-commerce Platform:A web-based marketplace for handmade products:25000:2024-06-10:2024-12-31
+5:1:AI Chatbot Development:A chatbot for automating customer support:15000:2024-07-05:2024-11-30
+6:1:Cloud Migration Project:Migrate legacy infrastructure to AWS:30000:2024-08-01:2025-02-28
+5:2:TEst:Test:10000000:2026-02-02:2026-02-14
