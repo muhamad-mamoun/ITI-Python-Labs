@@ -1,6 +1,27 @@
 #! /bin/python3
 
 # ================================================== #
+# Summarize DataClass in Python
+
+# 1- The costructor is created automatically.
+# 2- The __repr__ method is created automatically.
+# 3- The __eq__ method is created automatically.
+# 4- The __str__ method is created automatically.
+
+# from dataclasses import dataclass
+
+# @dataclass
+# class Person:
+#     name: str = 'John'
+#     age: int = 30
+#     salary: float = 30000.0
+#     date_of_birth: str = '01-01-1990'
+
+# employee = Person('Mike', 25, 25000.0, '01-01-1995')
+# print(employee)
+# print(employee == Person('Mike', 25, 25000.0, '01-01-1995'))
+
+# ================================================== #
 # Method Resolution Order (MRO) in Multi Inheritance
 
 # MRO is the how Python will search for the called function in the inheritence hierarcy.
